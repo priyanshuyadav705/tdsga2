@@ -1,4 +1,4 @@
-name: Test Action
+name: GA2 Action
 
 on:
   push:
@@ -8,4 +8,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: 23f1000018@ds.study.iitm.ac.in
-        run: echo "Hello, world!"
+        run: echo "GitHub Action Working"
